@@ -1,0 +1,12 @@
+column,meaning,example
+transaction_id,Unique transaction identifier,TXN100001
+date,Transaction date,2026-04-15
+department,Business department responsible for transaction,Marketing
+category,Financial category,Advertising
+vendor,Vendor or customer group,AdSphere
+region,Business region,South
+transaction_type,Revenue or Expense,Expense
+amount,Transaction amount in INR,85000.0
+budget,Monthly category budget for expense transactions,90000.0
+payment_method,Payment method used,Bank Transfer
+description,Short transaction description,Advertising transaction for Marketing

@@ -1,0 +1,6 @@
+scenario_id,period,metric,expected_root_cause,expected_vendor,description
+SCN001,2026-04,Operating Expense,Marketing > Advertising,AdSphere / MarketBoost / SearchPro,Marketing Advertising spending was intentionally increased.
+SCN002,2026-05,Revenue,South Region > Revenue,Customer segment,South-region revenue transaction values were intentionally reduced.
+SCN003,2026-03,Operating Expense,IT > Software > CloudSuite,CloudSuite,CloudSuite software spending was intentionally increased.
+SCN004,2026-02,Operating Expense,Operations > Logistics,FastFreight / MoveRight / ShipNow,Operations logistics spending was intentionally increased.
+SCN005,2026-06,Operating Expense,HR > Recruitment,TalentBridge / HireFast,HR recruitment spending was intentionally increased.
